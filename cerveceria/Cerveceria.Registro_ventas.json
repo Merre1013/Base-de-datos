@@ -1,0 +1,200 @@
+[{
+  "_id": {
+    "$oid": "666ccfdac13d8b2a27c2ce4f"
+  },
+  "cerveza": "Laguers"
+},
+{
+  "_id": {
+    "$oid": "666ccfdac13d8b2a27c2ce50"
+  },
+  "Mes": "Junio",
+  "semana": 1,
+  "nombre_cliente": "juan perez",
+  "telefono": {
+    "$numberLong": "3124567893"
+  },
+  "email": "juan@gmail.com",
+  "ciudad": "bogota",
+  "unidades_vendidas": 200,
+  "precio_unitario_pesos": 12.4,
+  "precio_total": 2480
+},
+{
+  "_id": {
+    "$oid": "666ccfdac13d8b2a27c2ce51"
+  },
+  "Mes": "Junio",
+  "semana": 2,
+  "nombre_cliente": "Ricardo Diaz",
+  "telefono": {
+    "$numberLong": "3124567893"
+  },
+  "email": "Rica@gmail.com",
+  "ciudad": "caldas",
+  "unidades_vendidas": 150,
+  "precio_unitario_pesos": 12.4,
+  "precio_total": 1860
+},
+{
+  "_id": {
+    "$oid": "666ccfdac13d8b2a27c2ce52"
+  },
+  "Mes": "Junio",
+  "semana": 3,
+  "nombre_cliente": "Maria Castro",
+  "telefono": {
+    "$numberLong": "3124567893"
+  },
+  "email": "Maria@gmail.com",
+  "ciudad": "caldas",
+  "unidades_vendidas": 200,
+  "precio_unitario_pesos": 12.4,
+  "precio_total": 2480
+},
+{
+  "_id": {
+    "$oid": "666ccfdac13d8b2a27c2ce53"
+  },
+  "Mes": "Junio",
+  "semana": 4,
+  "nombre_cliente": "German martinez",
+  "telefono": {
+    "$numberLong": "3124567893"
+  },
+  "email": "German@gmail.com",
+  "ciudad": "caldas",
+  "unidades_vendidas": 300,
+  "precio_unitario_pesos": 12.4,
+  "precio_total": 3720
+},
+{
+  "_id": {
+    "$oid": "666cd1cec13d8b2a27c2ce55"
+  },
+  "cerveza": "ales"
+},
+{
+  "_id": {
+    "$oid": "666cd1cec13d8b2a27c2ce56"
+  },
+  "Mes": "Junio",
+  "semana": 1,
+  "nombre_cliente": "Rita melendez",
+  "telefono": 310653548,
+  "email": "rita@gmail.com",
+  "ciudad": "tulua",
+  "unidades_vendidas": 200,
+  "precio_unitario": 12.4,
+  "precio_total": 2480
+},
+{
+  "_id": {
+    "$oid": "666cd1cec13d8b2a27c2ce57"
+  },
+  "Mes": "Junio",
+  "semana": 2,
+  "nombre_cliente": "oscar perez",
+  "telefono": {
+    "$numberLong": "3157653456"
+  },
+  "email": "oscar@gmail.com",
+  "ciudad": "manizales",
+  "unidades_vendidas": 200,
+  "precio_unitario": 12.4,
+  "precio_total": 2480
+},
+{
+  "_id": {
+    "$oid": "666cd1cec13d8b2a27c2ce58"
+  },
+  "Mes": "Junio",
+  "semana": 3,
+  "nombre_cliente": "juan perez",
+  "telefono": {
+    "$numberLong": "3124567893"
+  },
+  "email": "juan@gmail.com",
+  "ciudad": "caldas",
+  "unidades_vendidas": 200,
+  "precio_unitario": 12.4,
+  "precio_total": 2480
+},
+{
+  "_id": {
+    "$oid": "666cd1cec13d8b2a27c2ce59"
+  },
+  "Mes": "Junio",
+  "semana": 4,
+  "nombre_cliente": "henry salazar",
+  "telefono": 300987234,
+  "email": "juan@gmail.com",
+  "ciudad": "cartagena",
+  "unidades_vendidas": 200,
+  "precio_unitario": 12.4,
+  "precio_total": 2480
+},
+{
+  "_id": {
+    "$oid": "666cd669c13d8b2a27c2ce5b"
+  },
+  "cerveza": "Dark_nigth"
+},
+{
+  "_id": {
+    "$oid": "666cd669c13d8b2a27c2ce5c"
+  },
+  "Mes": "Junio",
+  "semana": 1,
+  "nombre_cliente": "Dora sarmiento",
+  "telefono": 35054643,
+  "email": "dora@gmail.com",
+  "ciudad": "caldas",
+  "unidades_vendidas": 350,
+  "precio_unitario": 15,
+  "precio_total": 5250
+},
+{
+  "_id": {
+    "$oid": "666cd669c13d8b2a27c2ce5d"
+  },
+  "Mes": "Junio",
+  "semana": 2,
+  "nombre_cliente": "july lopez",
+  "telefono": 30056542,
+  "email": "july@gmail.com",
+  "ciudad": "bogota",
+  "unidades_vendidas": 200,
+  "precio_unitario": 15,
+  "precio_total": 3000
+},
+{
+  "_id": {
+    "$oid": "666cd669c13d8b2a27c2ce5e"
+  },
+  "Mes": "Junio",
+  "semana": 3,
+  "nombre_cliente": "alejandra castro",
+  "telefono": 350987654,
+  "email": "alejandra@gmail.com",
+  "ciudad": "pereira",
+  "unidades_vendidas": 180,
+  "precio_unitario": 15,
+  "precio_total": 2700
+},
+{
+  "_id": {
+    "$oid": "666cd669c13d8b2a27c2ce5f"
+  },
+  "Mes": "Junio",
+  "semana": 4,
+  "nombre_cliente": "esther suarez",
+  "telefono": {
+    "$numberLong": "3115432140"
+  },
+  "email": "esther@gmail.com",
+  "ciudad": "buenaventura",
+  "unidades_vendidas": 95,
+  "precio_unitario": 15,
+  "precio_total": 1425
+}]

@@ -1,0 +1,66 @@
+[{
+  "_id": {
+    "$oid": "666ce088c13d8b2a27c2ce68"
+  },
+  "Inventario": "Materia_prima"
+},
+{
+  "_id": {
+    "$oid": "666ce088c13d8b2a27c2ce69"
+  },
+  "Nombre_materia": "cebada",
+  "cant_stock_kilos": 10000,
+  "precio_kilo_pesos": 1500,
+  "valor_total": 15000000,
+  "presentacion": "bulto"
+},
+{
+  "_id": {
+    "$oid": "666ce088c13d8b2a27c2ce6a"
+  },
+  "Nombre_materia": "Malta",
+  "cant_stock_kilos": 18000,
+  "precio_kilo_pesos": 2500,
+  "valor_total": 45000000,
+  "presentacion": "bulto"
+},
+{
+  "_id": {
+    "$oid": "666ce088c13d8b2a27c2ce6b"
+  },
+  "Nombre_materia": "Lupulo",
+  "cant_stock_kilos": 12000,
+  "precio_kilo_pesos": 1700,
+  "valor_total": 20400000,
+  "presentacion": "bulto"
+},
+{
+  "_id": {
+    "$oid": "666ce088c13d8b2a27c2ce6c"
+  },
+  "Nombre_materia": "Agua",
+  "cant_stock_litro": 40000,
+  "precio_litro_pesos": 4000,
+  "valor_total": 160000000,
+  "presentacion": "litros"
+},
+{
+  "_id": {
+    "$oid": "666ce088c13d8b2a27c2ce6d"
+  },
+  "Nombre_materia": "Levadura",
+  "cant_stock_kilos": 25000,
+  "precio_kilo_pesos": 1500,
+  "valor_total": 37500000,
+  "presentacion": "bulto"
+},
+{
+  "_id": {
+    "$oid": "666ce088c13d8b2a27c2ce6e"
+  },
+  "Nombre_materia": "Azucar",
+  "cant_stock_kilos": 20000,
+  "precio_kilo_pesos": 2500,
+  "valor_total": 50000,
+  "presentacion": "bulto"
+}]
